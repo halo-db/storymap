@@ -16,3 +16,10 @@ Als **NUTZERROLLE** möchte ich **ACTION** um **NUTZEN**
 
 z.B.:
 *Als wissenschaftlicher Nutzer möchte ich gerne Daten hochladen um diese Daten mit Kollegen zu teilen.*
+
+## Story board
+
+Unser "story board" ist hier:
+https://github.com/halo-db/storymap/projects/1
+
+Wir stellen uns vor, dass wir von links nach rechts zusammen mit einer unserer Personas durch das System gehen: "Erst mal Einloggen, dann ...". Dabei kommen uns ganz natürlich eine Reihe von "Use cases" in den Kopf, die wir als Github-Issues anlegen können und dann in die passende Spalte im "Board" schieben können. Wenn wir merken, dass uns eine Spalte fehlt, dann fügen wir die einfach hinzu. 
