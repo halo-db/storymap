@@ -1,8 +1,8 @@
 # Objective of Work
 
-We aim to work out, how the ideal HALO Database should look like. On that basis we want to discuss how to proceed with the currenet HALO database. Is a complete remake desired? Or could a number of changes be implemented to appoach the ideal HALO database significantly?
+We aim to work out, how the ideal HALO Database should look like. On that basis, we want to discuss how to proceed with the currenet HALO database. Is a complete remake desired? Or could a number of changes be implemented to appoach the ideal HALO database significantly?
 
-It is unlikely that it is unambiguous which is the ideal state of the HALO database. Instead, several conflicting priorities might become apparent. A clear phrasing of these conflicting priorities and their implications on other aspects of the HALO database are another important goal of our work. Thus, we can facilitate the decision making process in the HALO scientific steering committee.
+It is unlikely that we obtain an unambiguous picture about the ideal state of the HALO database. Instead, several conflicting priorities might become apparent. A clear phrasing of these conflicting priorities and their implications on other aspects of the HALO database are another important goal of our work. Thus, we can facilitate the decision making process in the HALO scientific steering committee.
 
 # Story mapping 
 
