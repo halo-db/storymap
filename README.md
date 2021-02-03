@@ -8,28 +8,29 @@ It is unlikely that we obtain an unambiguous picture about the ideal state of th
 
 ## Intro
 
- - Zunächst erzeugen wir Persona (siehe Issue #1) und definieren ihre individuellen Ziele
- - Dann betrachten wir, wie diese virtuellen Leute das System nutzen würden, um ihre Ziele zu erreichen
- - Dabei entstehen kleine oder große Usecases, die wir alls Github-Issues sammeln werden und dann über ein Github-Projekt chronologisch ordnen werden
+ - First, we create personas (see Issue #1) and define their individual goals.
+ - Then we look at how these virtual people would use the system to achieve their goals.
+ - This will lead to small or large use cases, which we will collect as Github-issues and chronologically organise in a Github-project.
  
-Das ganze heißt "Story mapping" und liefert uns das Big picture und gleichzeitig einen detalierten Blick was genau an Anforderungen an das System gestellt wird.
+The whole thing is called "story mapping" and provides us with the big picture and at the same time a detailed look at what exactly is required of the system.
 
 ## Persona
 
-In issue https://github.com/halo-db/storymap/issues/1 sammeln wir unsere Persona. Wir sollten ein paar haben, um die verschiedenen Nutzergruppen abzudenken. Vielleicht fällt uns auch auf, das eine gewisse Persona die wir erfunden haben nicht zur Zielgruppe der HALO-DB gehört, was auch Ok wäre. 
+In issue https://github.com/halo-db/storymap/issues/1 we collect our persona. We should have a few to think about the different user groups. We might also notice that a certain persona we have invented is not part of the target group of the HALO-DB, which would also be ok. 
 
 ## Story board
 
-Unser "story board" ist hier:
+Our story board is here:
 https://github.com/halo-db/storymap/projects/1
 
-Wir stellen uns vor, dass wir von links nach rechts zusammen mit einer unserer Personas durch das System gehen: "Erst mal Einloggen, dann ...". Dabei kommen uns ganz natürlich eine Reihe von "Use cases" in den Kopf, die wir als Github-Issues anlegen können und dann in die passende Spalte im "Board" schieben können. Wenn wir merken, dass uns eine Spalte fehlt, dann fügen wir die einfach hinzu. 
+We imagine that we go through the system from left to right together with one of our personas: "First log in, then ...". As we do this, a number of "use cases" naturally come to mind, which we can create as Github-issues and then move to the appropriate column in the "board". If we notice that we are missing a column, we simply add it. 
 
 ## Use cases
 
-Wir folgen folgendem Schema für unsere Usecases:
+We follow the following scheme for our use cases:
 
-Als **NUTZERROLLE** möchte ich **ACTION** um **NUTZEN**
+As **USER ROLE** I want **ACTION** to **USE**.
 
-z.B.:
-*Als wissenschaftlicher Nutzer möchte ich gerne Daten hochladen um diese Daten mit Kollegen zu teilen.*
+e.g.:
+*As a scientific user, I would like to upload data to share this data with colleagues.
+
